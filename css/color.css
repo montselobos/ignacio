@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* Color styles */
+
+.fullscreen-slider-holder .customNavigation a,  .tr-header2 .scroll-nav li.actscroll a, .nav-button span , .tabs-menu li.current , .owl-theme .owl-dots .owl-dot.active span,.owl-theme .owl-dots .owl-dot:hover span  , .masonry-filters a.masonry-filter_active , .clr-btn , .scroll-nav li:hover:before , .scroll-nav li.actscroll:before , .custom-skillbar   , .cl-over .overlay , .price , .trans-btn:hover , .color-bg , .owl-theme .owl-controls .owl-page span , .ser-carous-holder  .customNavigation a , .left-column .customNavigation a ,  .cl-toltip:before , .flat-facts .inline-facts:before , .flat-social li:before , .services-holder li:before , .color-separator , .hero-wrapper p:before , .hero-scroll-btn:before , #subscribe  .subscribe-button  ,#contact-form input[type="submit"] , .detailst-list li i , .share-icon , .detailst-list li a strong:before , .detailst-list li span strong:before , .fet-carousel .customNavigation a:before  ,  .close-menu , .nav-footer:before , .scroll-nav-btn , .custom-slider-holder  .customNavigation a , .shuffle-button , .showmap:before , .post-tags li:hover a , .tagcloud li:hover a , .pagination a.current-page, .pagination a:hover , .trnsp_btn , .controls button , .tldate , .timeline li .tl-circ  , .filter-button{
+	background:#9ACFB7;
+}
+.policy-box p span , .ci-mail , .twitts li a , .social-links li a:hover  , nav   ul li a:hover , nav a.active , .carous-holder  .owl-theme .owl-controls .owl-nav .owl-next:hover , .carous-holder  .owl-theme .owl-controls .owl-nav .owl-prev:hover , .box-details h3 a  , .masonry-filters a:hover  ,  .inline-facts h6  , .accordion-title a i  , .wht-btn , .test-carousel a span , .services-holder li  i , #menu li a.active , .nav-description p span , .nav-social li a:hover , .resume-head h4 , .fw-testi-header .customNavigation a:hover , .flat-header .scroll-nav li a:hover , #contact-form input[type="submit"]:hover , .big-text span , .post-meta li a , .post-meta li i  , .post-link:hover , .search-submit i , .widget-posts-descr a:hover  , .widget-comments-date strong , .cat-item:hover a , #comments-title span , .tl-date i ,
+ .subscribe-message.valid i {
+	color:#9ACFB7
+}
+nav span:after {
+	border-top-color: #9ACFB7;
+}
+.loader {
+	border-left:10px solid #9ACFB7;
+}
+.trans-btn:hover , .clr-btn {
+	border:2px solid #9ACFB7;
+}
+.tooltip:after {
+	border-top:1px  dotted #9ACFB7;
+}
+ @media only screen and  (max-width: 1036px) { 
+ .scroll-nav li.actscroll a {
+	 color:#9ACFB7;}
+ }
