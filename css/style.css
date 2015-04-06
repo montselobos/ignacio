@@ -1266,7 +1266,10 @@ header.sticky  a  , .flat-header .scroll-nav li a{
 	padding-top:6px;
 	color:#fff;
 	font-size:12px;
-	text-transform:uppercase;
+	/*text-transform:uppercase;*/
+} 
+.box-details h4 span{
+	color:#b6b6b6;
 } 
 .box-links {
 	position:absolute;
@@ -1297,8 +1300,9 @@ header.sticky  a  , .flat-header .scroll-nav li a{
 	color:#fff;
 }
 .wt-over .box-links a {
-	border:1px solid #666;
-	color:#666;
+	  border: 1px solid #fff;
+	  color: #666;
+	  background-color: rgba(255, 255, 255, 0.90);
 }
 .wt-over .overlay {
 	background:rgba(255,255,255,0.8)
